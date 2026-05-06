@@ -1,0 +1,7 @@
+Save the three screenshots in this folder using these filenames:
+
+if-statement.png
+if-else-statement.png
+if-else-if-else-statement.png
+
+After that, tell Codex to insert the images into academics.html.
